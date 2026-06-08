@@ -1,0 +1,8 @@
+{
+  "model_name": "facebook/bart-base",
+  "batch_size": 8,
+  "learning_rate": 5e-05,
+  "num_epochs": 5,
+  "test_sari": 42.11,
+  "test_bleu": 39.42
+}
